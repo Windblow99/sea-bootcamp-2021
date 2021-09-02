@@ -9,7 +9,7 @@ resources:
 
 images:
 - name: placeholder
-  newName: harbor.sea.vmwhere.org/sea1/demo
+  newName: harbor.sea.vmwhere.org/sea9/demo
   newTag: docker
 
 replicas:
